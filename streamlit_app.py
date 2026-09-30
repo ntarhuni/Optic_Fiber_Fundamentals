@@ -3,7 +3,7 @@ Fiber-Optics Concept Lab
 ========================
 Interactive practice environment for
   * Chapter 2 - Optics Review  (ray theory, lenses, numerical aperture, diffraction, Gaussian beams)
-  * Chapter 3 - Lightwave Fundamentals, Part 1 (EM waves, dispersion, information rate,
+  * Chapter 3 - Lightwave Fundamentals, (EM waves, dispersion, information rate,
                 polarization, resonant cavities, Fresnel reflection, critical-angle reflection)
 
 Run with:   streamlit run app.py
@@ -250,7 +250,7 @@ def page_home():
     st.markdown("# Fiber-Optics Concept Lab")
     st.markdown(
         "A hands-on practice environment for **Chapter 2 – Optics Review** and "
-        "**Chapter 3 – Lightwave Fundamentals (Part 1)**. Every module follows the lecture slides: "
+        "**Chapter 3 – Lightwave Fundamentals**. Every module follows the lecture slides: "
         "the same symbols, the same equations, the same worked examples – but you can now change every "
         "input and watch the physics respond."
     )
